@@ -1,7 +1,7 @@
-## Spatial_thoughts - project
+# Spatial_thoughts - project
 Topic - Hurrican Harvey destruction on US state Texas using before and after Landsat data
 
-# Hurricane – Harvey
+## Hurricane – Harvey
 
 Date- 26 August 2017- TEXAS
 
@@ -20,13 +20,13 @@ Name: LC08_L2SP_025040_20170524_20200903_02_T1
 Date: 29 October 2017
 Name :LC08_L2SP_025040_20170929_20200903_02_T1
 
-# NDBI = Normal Difference Built-up Index 
+## NDBI = Normal Difference Built-up Index 
 
 NDBI = (SWIR – NIR) / (SWIR + NIR)
 
 For Landsat 8 data, NDBI = (Band 6 – Band 5) / (Band 6 + Band 5)
 
-# Spectral distance calculation
+## Spectral distance calculation
 
 When you want to detect changes from multi-band images, a useful technique is to compute the Spectral Distance and Spectral Angle between the two images. Pixels that exhibit a large change will have a larger distance compared to those that did not change. 
 

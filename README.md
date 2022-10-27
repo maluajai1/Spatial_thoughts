@@ -1,7 +1,7 @@
-# Spatial_thoughts - project
+## Spatial_thoughts - project
 Topic - Hurrican Harvey destruction on US state Texas using before and after Landsat data
 
-Hurricane – Harvey
+# Hurricane – Harvey
 
 Date- 26 August 2017- TEXAS
 
@@ -9,15 +9,17 @@ Landsat data : Landsat 8-9 OLI/TIRS Collection 2 Level 2
 •	Path: 025
 •	Row: 040
 
-Before 
+# Before 
+
 Date: 24  May 2017
 Name: LC08_L2SP_025040_20170524_20200903_02_T1 
 
-After
+# After
+
 Date: 29 October 2017
 Name :LC08_L2SP_025040_20170929_20200903_02_T1
 
-NDBI = Normal Difference Built-up Index 
+# NDBI = Normal Difference Built-up Index 
 
 NDBI = (SWIR – NIR) / (SWIR + NIR)
 

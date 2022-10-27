@@ -24,3 +24,8 @@ Name :LC08_L2SP_025040_20170929_20200903_02_T1
 NDBI = (SWIR – NIR) / (SWIR + NIR)
 
 For Landsat 8 data, NDBI = (Band 6 – Band 5) / (Band 6 + Band 5)
+
+
+Reference:
+
+https://www.earthdatascience.org/courses/use-data-open-source-python/multispectral-remote-sensing/landsat-in-Python/

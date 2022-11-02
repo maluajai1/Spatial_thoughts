@@ -28,10 +28,9 @@ NDBI = (SWIR – NIR) / (SWIR + NIR)
 
 For Landsat 8 data, NDBI = (Band 6 – Band 5) / (Band 6 + Band 5)
 
-## Spectral distance calculation
+## NBR =  Normalized Burn Ratio (NBR)
 
-When you want to detect changes from multi-band images, a useful technique is to compute the Spectral Distance and Spectral Angle between the two images. Pixels that exhibit a large change will have a larger distance compared to those that did not change. 
-
+NBR = (Band 5 – Band 7) / (Band 5 + Band 7).
 
 
 Reference:

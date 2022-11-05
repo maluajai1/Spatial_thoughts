@@ -7,14 +7,16 @@ Date of occurance- 26 August 2017- TEXAS
 
 Landsat data : Landsat 8-9 OLI/TIRS Collection 2 Level 2
 
-•	Path: 025
-•	Row: 040
+•	Path: 025,025
+•	Row: 040,039
+
 
  Before 
 
 Date : 24  May 2017
 
-Name: LC08_L2SP_025040_20170524_20200903_02_T1 
+Name: Band 5,6,7 QA
+LC08_L2SP_025040_20170524_20200903_02_T1 
 
  After
 

@@ -29,11 +29,20 @@ Name :LC08_L2SP_025040_20170929_20200903_02_T1
 NDBI = (SWIR – NIR) / (SWIR + NIR)
 
 For Landsat 8 data, NDBI = (Band 6 – Band 5) / (Band 6 + Band 5)
+
+The derived NDBI image was then recoded to create a binary image. The
+resultant ratio was assigned a new value of 0 if the input pixel had a negative index
+or 254 if its input index was larger than 0
+
 ## Normalized Difference Vegetation Index (NDVI):
 
 NDVI = (NIR – Red) / (NIR + Red)
 
 For Landsat 8 data, NDVI = (Band 5 – Band 4) / (Band 5 + Band 4)
+
+In order to facilitate the subsequent processing, the derived NDVI image was
+recoded with 254 for all pixels having positive indices (vegetation) and 0 for all
+remaining pixels of negative indices.
 
 ## NBR =  Normalized Burn Ratio (NBR)
 

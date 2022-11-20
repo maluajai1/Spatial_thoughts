@@ -29,6 +29,11 @@ Name :LC08_L2SP_025040_20170929_20200903_02_T1
 NDBI = (SWIR – NIR) / (SWIR + NIR)
 
 For Landsat 8 data, NDBI = (Band 6 – Band 5) / (Band 6 + Band 5)
+## Normalized Difference Vegetation Index (NDVI):
+
+NDVI = (NIR – Red) / (NIR + Red)
+
+For Landsat 8 data, NDVI = (Band 5 – Band 4) / (Band 5 + Band 4)
 
 ## NBR =  Normalized Burn Ratio (NBR)
 
